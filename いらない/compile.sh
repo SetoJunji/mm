@@ -1,0 +1,2 @@
+#!bin/bash
+g++ -w BORDERSMAKER.cpp CHORDMAKER.cpp CHORDPOOL.cpp CONVERT.cpp MAPBORDERSMAKER.cpp MIDI_FILE_OUT.cpp MOVEMENT.cpp MUSIC.cpp MasterMaker.cpp NCHORD.cpp NFY.cpp PARTS_COMMON.cpp PASSAGE.cpp PLAYER_BRUCE_DICKINSON.cpp PartsFunction.cpp SCORE.cpp SCRAP.cpp SESSION.cpp TRACKS.cpp UST.cpp accent_border.cpp chord_border.cpp masterfile.cpp melody.cpp nameraka.cpp rythm_border.cpp コードの中身作成.cpp コードパート出力.cpp 曲編成と楽節作成.cpp 使える音ファイル作成.cpp 大量のBARファイル出力.cpp 中身装填.cpp 量子化.cpp 
